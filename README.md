@@ -1,1 +1,5 @@
-"# git_Readme" 
+#Git Read.me dosyaysı kısa anlatım
+
+##Örnekler
+
+![banner resmi]()
